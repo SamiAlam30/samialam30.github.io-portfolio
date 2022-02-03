@@ -1,0 +1,109 @@
+body{
+    width: 100%; 
+    margin: 0 !important;
+   
+}
+.colourt{
+   background-color: azure;
+   width: 100%;
+}
+.font{
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 158px;
+    padding-top: 90px;
+   
+     color: cornflowerblue;
+}
+#p{
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 80px;
+   color: lightskyblue;
+}
+.profile{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: lightslategrey;
+    font-family: 'EB Garamond', serif;
+ 
+}
+#p2{
+    color: cornflowerblue ;
+    font-size: 25px;
+  
+    font-weight: bolder;
+    font-family: 'EB Garamond', serif;
+
+}
+#p3{
+    color: lightslategrey;
+    font-size: 22px;
+    box-sizing: border-box;
+    
+    font-weight: bold;
+    font-family: 'EB Garamond', serif;
+}
+#p4{
+    color: cornflowerblue ;
+    font-size: 22px;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'EB Garamond', serif;
+    
+   
+    
+}
+#p5{
+    color: lightslategrey;
+    font-size: 22px;
+    box-sizing: border-box;
+    font-weight: bold;
+    font-family: 'EB Garamond', serif;
+    text-align: justify;
+
+}
+#p6{
+    font-family: 'EB Garamond', serif;
+    color: lightslategrey;
+    font-weight: bold;
+
+}
+.button{
+    background-color: #6495ED;
+    border-radius: 30px ;
+    padding: 7px;
+    font-size: 25px;
+   margin-left: 42%;
+   margin-top: 50px;
+   
+}
+.button:hover{
+    color: aliceblue;
+  background-color: darkturquoise;
+}
+footer{
+    background-color:  #6495ED ;
+  height: 220PX;
+  line-height: 7;
+  padding: 20px;
+  text-align: center;
+ 
+ 
+}
+.footer-link{
+  margin: 5px;
+  
+}
+.footer-link:hover{
+    color: white;
+}
+.fon{
+    font-family: 'EB Garamond', serif;
+  color: white;
+}
+
+
+
+
